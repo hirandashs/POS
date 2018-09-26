@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gusto", "Gusto\Gusto.csproj", "{AA49E778-0B8E-48B2-ACBA-9DF6B861B046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA49E778-0B8E-48B2-ACBA-9DF6B861B046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA49E778-0B8E-48B2-ACBA-9DF6B861B046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA49E778-0B8E-48B2-ACBA-9DF6B861B046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA49E778-0B8E-48B2-ACBA-9DF6B861B046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61156EE7-98C7-4E85-922F-25CF0FDEED15}
+	EndGlobalSection
+EndGlobal

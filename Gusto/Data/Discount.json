@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Id": "1",
+        "Name": "SandwichDiscount",
+        "Percentage": "10",
+        "Category": "1"
+    },
+    {
+        "Id": "2",
+        "Name": "DrinkDiscount",
+        "Percentage": "50",
+        "Category": "2"
+    },
+    {
+        "Id": "3",
+        "Name": "DessertDiscount",
+        "Percentage": "100",
+        "Category": "3"
+    }
+]
